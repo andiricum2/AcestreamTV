@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LA LIGA SANTANDER" tvg-id="Movistar La Liga 1 op.1", Movistar La Liga 1 op.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA SANTANDER" tvg-id="Movistar La Liga 1 op.1", Movistar La Liga 1 op.1
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LA LIGA SANTANDER" tvg-id="Movistar La Liga 1 op.2", Movistar La Liga 1 op.2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="LA LIGA SANTANDER" tvg-id="Movistar La Liga 1 op.2", Movistar La Liga 1 op.2
 acestream://d47addf5e467cbf102ba759600303c21efb1deeb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" group-title="LA LIGA SANTANDER" tvg-id="Dazn La Liga 1 op.1", Dazn La Liga 1 op.1
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
