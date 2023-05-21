@@ -23,8 +23,6 @@ acestream://1104426e14b649eb23fee16698768544285de478
 acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/0_por_Movistar_Plus%2B_2022_logo.svg/800px-0_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Movistar" tvg-id="M+ #0 HD" tvg-name="#0", #0 op.1
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ellas_V_por_Movistar_Plus%2B.svg/640px-Ellas_V_por_Movistar_Plus%2B.svg.png" group-title="Movistar" tvg-id="M+ Ellas #V HD" tvg-name="#0", Ellas #V op.1
-acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/2560px-Movistar_Golf.svg.png" group-title="GOLF" tvg-id="M+ Golf HD" tvg-name="Movistar Golf op.1", Movistar Golf op.1
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/800px-DAZN_F1_logo.svg.png" group-title="Formula 1" tvg-id="DAZN F1 HD" tvg-name="Dazn Formula 1 op.1", Dazn Formula 1 op.1
