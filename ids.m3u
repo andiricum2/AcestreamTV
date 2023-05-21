@@ -13,10 +13,6 @@ acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 acestream://93d663e92a93845b11c9831885646fa39ba1ed66
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1200px-DAZN_LaLiga_logo.svg.png" group-title="LA LIGA SANTANDER" tvg-id="DAZN LaLiga 2 HD" tvg-name="Dazn La Liga 2 op.2", Dazn La Liga 2 op.2
 acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
-#EXTINF:-1 tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png" group-title="LA LIGA SANTANDER" tvg-id="M+ LaLigaTV Bar" tvg-name="La Liga Bar op.1", La Liga Bar op.1
-acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
-#EXTINF:-1 tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png" group-title="LA LIGA SANTANDER" tvg-id="M+ LaLigaTV Bar" tvg-name="La Liga Bar op.1", La Liga Bar op.2
-acestream://01b333b9369c662775902638ef8cffac346a0f61
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/LaLiga_SmartBank_logo_%28stacked%29.svg/800px-LaLiga_SmartBank_logo_%28stacked%29.svg.png" group-title="LA LIGA SMARTBANK" tvg-id="LaLiga SmartbankTV HD" tvg-name="La Liga Smartbank 1 op.1", La Liga Smartbank 1 op.1
 acestream://7791ba828c0226d8f54cef1611889d29fb333247
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/LaLiga_SmartBank_logo_%28stacked%29.svg/800px-LaLiga_SmartBank_logo_%28stacked%29.svg.png" group-title="LA LIGA SMARTBANK" tvg-id="LaLiga SmartbankTV M2 HD" tvg-name="La Liga Smartbank 2 op.1", La Liga Smartbank 2 op.1
